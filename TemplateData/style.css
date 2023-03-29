@@ -17,6 +17,6 @@
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background: #000000; width: 38px; float: right;}
 
-body, html {
+.webgl-content {
  background-color: black;
 }
